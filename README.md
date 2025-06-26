@@ -8,7 +8,7 @@ This is a PWA application built for my practice.⭐
 #### To test out this application:
 (Instructions from iPhone)
 
-- From your mobile phone, visit the **official website**: [leads-tracker-ebg.netlify.app](leads-tracker-ebg.netlify.app)
+- From your mobile phone, visit the **official website**: [leads-tracker-ebg.netlify.app](https://leads-tracker-ebg.netlify.app/)
 - Locate and press the **share button icon**, which is normally found at the bottom of screen: <img src="/assets/step1.jpeg" width="300" height="80">
 - Scroll down until **"Add to Home Screen"** is in view and click it: 
   
